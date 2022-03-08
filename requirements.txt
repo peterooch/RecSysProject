@@ -1,0 +1,7 @@
+lightfm
+fastapi
+uvicorn
+joblib
+numpy
+pandas
+#pyarrow
